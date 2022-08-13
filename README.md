@@ -5,7 +5,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 If you want to use this repository as a template for your project just type:
 
 ```bash
-yarn create next-app -e https://github.com/ZaikoXander/next.js-project-template
+yarn create next-app -e https://github.com/ZaikoXander/next.js-template
 ```
 
 ---
